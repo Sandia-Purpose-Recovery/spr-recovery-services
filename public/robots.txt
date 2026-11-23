@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sandia-purpose-recovery.github.io/spr-recovery-services/sitemap.xml
